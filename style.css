@@ -43,6 +43,7 @@ button {
     display: flex;
     width: 100%;
     height: 100%;
+    margin-bottom: 20%;
 }
 .apparel__content {
     padding: 64px 128px;
